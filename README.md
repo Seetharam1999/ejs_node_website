@@ -3,7 +3,7 @@
 #   Documentation 
 -   Clone this repo:
                   git clone https://github.com/Seetharam1999/ejs_node_website.git
--   Change current Directorty to ejs_node_website Direcotry :
+-   Change current Directory to ejs_node_website Direcory :
                   cd ejs_node_website
 -   Install dependencies using npm javascript package manager: 
                   npm install
